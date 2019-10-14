@@ -1,0 +1,21 @@
+.header-logo {
+  font-family: monospace;
+  font-size: 30px;
+  padding: 20px;
+  opacity: 0.5;
+}
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: monospace;
+}
+
+
+.footer-logo {
+  font-family: monospace;
+  font-size: 30px;
+  padding: 20px;
+  opacity: 0.5;
+}
